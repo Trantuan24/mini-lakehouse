@@ -1,10 +1,9 @@
 # Mini Data Platform — Lakehouse (Olist Brazil)
 
-Đồ án tốt nghiệp — Trần Duy Tuấn (2251061917). Mini Lakehouse end-to-end:
+Mini Lakehouse end-to-end:
 **Postgres → Bronze → Silver → Gold → Platinum → Superset**, điều phối bằng Airflow,
 lưu trữ Iceberg trên MinIO, truy vấn bằng Trino.
 
-> Thiết kế chi tiết: [`DESIGN.md`](./DESIGN.md) · Khung báo cáo: [`BaoCao_DATN_Outline.md`](./BaoCao_DATN_Outline.md)
 
 ## Kiến trúc
 
